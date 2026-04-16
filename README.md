@@ -18,4 +18,4 @@ A Python-based expense analytics dashboard built with Streamlit.
 - OpenPyXL
 
 ## Live App
-Add your Streamlit app link here.
+https://expense-dashboard-python-m9thbpzmuf6mydamamyo4z.streamlit.app/
